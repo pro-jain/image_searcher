@@ -1,0 +1,18 @@
+certifi==2025.1.31
+charset-normalizer==3.3.2
+idna==3.7
+numpy  # Required for TensorFlow
+pip==25.0
+platformdirs==3.10.0
+Pygments==2.15.1
+PySocks==1.7.1
+requests==2.32.3
+setuptools==75.8.0
+tqdm==4.67.1
+typing_extensions==4.12.2
+urllib3==2.3.0
+wheel==0.45.1
+tensorflow  
+tensorflow-hub  
+tensorflow-datasets
+streamlit
