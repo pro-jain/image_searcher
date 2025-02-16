@@ -1,7 +1,7 @@
 certifi==2025.1.31
 charset-normalizer==3.3.2
 idna==3.7
-numpy  # Required for TensorFlow
+numpy 
 pip==25.0
 platformdirs==3.10.0
 Pygments==2.15.1
