@@ -1,3 +1,4 @@
+# ✅ Essential Dependencies
 certifi==2025.1.31
 charset-normalizer==3.3.2
 idna==3.7
@@ -16,9 +17,9 @@ wheel==0.45.1
 # ✅ TensorFlow & Machine Learning
 tensorflow==2.8.2
 tensorflow-hub==0.16.1
-tensorflow-datasets==4.9.4
+tensorflow-datasets==4.8.3   # ✅ FIXED: Now compatible with Python 3.8
 keras==2.8.0
-h5py==3.6.0  # ✅ Fixed version without --only-binary flag
+h5py==3.6.0
 protobuf==3.19.6  # ✅ Compatible with TensorFlow 2.8.2
 scipy==1.9.3
 scikit-learn==1.3.2
@@ -27,7 +28,7 @@ threadpoolctl==3.5.0
 pyarrow==17.0.0
 
 # ✅ Web & API Frameworks
-streamlit==1.16.0  # ✅ Compatible with older TensorFlow
+streamlit==1.16.0  # ✅ Compatible with TensorFlow 2.8.2
 flask==3.0.0
 pandas==2.0.3
 opencv-python==4.11.0.86
