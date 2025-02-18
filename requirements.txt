@@ -33,5 +33,5 @@ protobuf==3.19.6
 opencv-python==4.11.0.86
 pillow==10.4.0
 setuptools>=75.1.0
-h5py==2.10.0
+h5py==3.6.0 --only-binary=h5py
 build
