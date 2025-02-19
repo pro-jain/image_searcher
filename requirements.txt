@@ -19,8 +19,7 @@ tensorflow==2.8.2
 tensorflow-hub==0.16.1
 tensorflow-datasets==4.8.3   # ✅ FIXED: Now compatible with Python 3.8
 keras==2.8.0
-h5py==2.10.0
-protobuf==3.20.3  # ✅ Compatible with TensorFlow 2.8.2
+h5py==2.10.0# ✅ Compatible with TensorFlow 2.8.2
 scipy==1.9.3
 scikit-learn==1.3.2
 joblib==1.4.2
